@@ -196,17 +196,8 @@ Status: Architecture & Development Planning
 
 Status: Ongoing
 
-05 — Passive Radar Research
 
-دراسة هندسية وبحث تقني حول مبادئ الرادار السلبي باستخدام تقنيات الاستقبال وتحليل الإشارات الراديوية.
 
-"Engineering Research" "Radar Systems"
-
-Status: Research & Study
-
-«Project repositories and official links will be added as they are published.»
-
----
 
 🏅 Certifications & Professional Learning
 
